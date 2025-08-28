@@ -1,6 +1,6 @@
-# Attractor Attractor
+# Coalitions.wtf
 
-View it at https://attractorattractor.xyz
+View it at https://coalitions.wtf
 
 ## Docs stack
 
